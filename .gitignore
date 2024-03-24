@@ -1,0 +1,20 @@
+# IDEs and editors
+/.idea
+/.vscode
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Ignore dossier data/
+data/
+
+# Ignore dossier logs/
+logs/
+
+# Ignore environment configuration file
+.env
